@@ -1,1 +1,1 @@
-# Stellies-IT-
+The Repository for Stellies IT
